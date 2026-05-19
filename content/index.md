@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 2026-05-19T16:09:15.115+02:00
-modified: 2026-05-19T16:09:31.026+02:00
+title: Pathfinder 2e
+created: 2026-05-19T16:40:57.933+02:00
+modified: 2026-05-19T16:41:31.508+02:00
 ---
 
-Show me the money
+Bienvenido al diario de aventuras de Puerto Pollo
