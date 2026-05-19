@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: RPG Journal
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -263,8 +263,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: its-theme.minimalist
 layout:
   groups:
     toolbar:
